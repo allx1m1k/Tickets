@@ -9,7 +9,7 @@ public class Main {
 
         //System.out.println(Login.login());
         Login.login();
-        LoginOriginal.login();
+        System.out.println(LoginOriginal.login());
 
     }
 }
